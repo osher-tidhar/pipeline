@@ -1,0 +1,2 @@
+Algorithm 2 complete
+[{'TP_gradient_mean': 0.09293785423138785, 'TP_gradient_median': 0.08875905987481729, 'TP_gradient_std_dev': 0.08220334713544183, 'TP_gradient_skewness': 25.581036101777347, 'TP_gradient_kurtosis': 1130.7559440290354, 'TP_min_median_mean': 1.088352459163065, 'TP_min_median_median': 1.0483164639268963, 'TP_min_median_std_dev': 0.3497134475951043, 'TP_min_median_skewness': -0.923894906955243, 'TP_min_median_kurtosis': 7.114804321372201}]

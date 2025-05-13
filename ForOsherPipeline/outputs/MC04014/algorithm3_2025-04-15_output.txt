@@ -1,0 +1,2 @@
+Algorithm 3 complete
+[{'Date': '2025-04-15', 'Mean - PR': 64.366, 'STD - PR': 5.851, 'Median - PR': 64.0, 'Unique Count - PR': 39, 'Number of samples - PR': 45943, 'ZCR - PR': 2.305, '% of Errors-PR Reading - PR': 0.0, 'Mean - RMSSD': 18.651, 'STD - RMSSD': 4.893, 'Median - RMSSD': 18.0, 'Unique Count - RMSSD': 30, 'ZCR - RMSSD': 0.329}]
